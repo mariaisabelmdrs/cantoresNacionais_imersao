@@ -1,4 +1,6 @@
-## README.md Descontraído: Seu Guia Rápido para a Playlist de Músicas Brasileiras
+## DESVENDANDO CANTORES E COMPOSITORES COM GOOGLE GEMINI
+
+## Seu Guia Rápido para a Playlist de Músicas Brasileiras
 
 **O que rola por aqui?**
 
